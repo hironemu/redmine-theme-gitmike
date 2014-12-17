@@ -12,6 +12,8 @@ body, input, select, textarea, button { font: 12px Helvetica, arial, freesans, c
 
 tt, code, pre, textarea { font-family: Menlo, Monaco, Consolas, 'Courier New', monospace; font-size: 12px; line-height: 16px; }
 
+p > code { background: #ddd; padding: 2px 3px; color: #c7254e; background-color: #f9f2f4; white-space: nowrap; border-radius: 4px; }
+
 #content h1, h2, h3, h4 { color: #333333; }
 
 #header { background: white; padding: 4px 8px 10px 6px; height: auto; }
