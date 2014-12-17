@@ -23,7 +23,7 @@ tt, code, pre, textarea {
   line-height: 16px;
 }
 
-p>code {
+:not(pre) > code {
   background: #ddd;
   padding: 2px 3px;
   color: #c7254e;
